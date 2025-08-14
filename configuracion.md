@@ -1,3 +1,0 @@
-# miprimerrepositorio
-Hola
-chau
